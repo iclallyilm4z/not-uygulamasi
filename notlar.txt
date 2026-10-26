@@ -1,0 +1,6 @@
+examples for 5 linux terminal commands:
+1- man ls : opens the manuel page for ls
+2- which : locates a program
+3- pwd : prints the current workin directory
+4- /mnt or /media : Mounts points fro external storage 
+5- cd.. : goes up for one directory
