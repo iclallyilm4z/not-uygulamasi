@@ -4,3 +4,10 @@ examples for 5 linux terminal commands:
 3- pwd : prints the current workin directory
 4- /mnt or /media : Mounts points fro external storage 
 5- cd.. : goes up for one directory
+
+here are the 5 examples for git commands i have learned at week 5!
+1- git branch : lists branches 
+2- git remote -v : inspects remotte changes (-v means verbose btw)
+3- git diff : prints what changed since last commit
+4- git commit -m : saves snapshot
+5- git log : used for viewing commit history

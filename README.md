@@ -6,5 +6,4 @@ this file is for my git app assignment which is given by my CEN105 lecturer:)
 
 
 
-Geliştirici: İclal (main versiyonu)
-
+Geliştirici: İclal (main ve feature versiyonları)
